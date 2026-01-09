@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563374130954",
+    "project_id": "cream-and-cookies",
+    "storage_bucket": "cream-and-cookies.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563374130954:android:b44f81a970e5ec2ba09cf3",
+        "android_client_info": {
+          "package_name": "com.example.authexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563374130954-jitimpmtdhci1g1m7anj3frkfb1imnn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAodnJadQhlVryB4EQgaaRb0v3t1hNi9GQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563374130954-jitimpmtdhci1g1m7anj3frkfb1imnn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
